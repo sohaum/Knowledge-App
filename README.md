@@ -25,13 +25,13 @@ By following the tutorial, I implemented:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/your-username/knowledge-app.git](https://github.com/your-username/knowledge-app.git)
+git clone https://github.com/your-username/knowledge-app.git
 
 # 2. Install dependencies
 npm install
 
 # 3. Configure Environment Variables
-# Create a .env.local file in the root directory and add:
+ Create a .env.local file in the root directory and add:
 # CONTENTFUL_SPACE_ID=your_space_id
 # CONTENTFUL_ACCESS_TOKEN=your_delivery_token
 # CONTENTFUL_PREVIEW_ACCESS_TOKEN=your_preview_token
